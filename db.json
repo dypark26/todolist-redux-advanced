@@ -1,0 +1,22 @@
+{
+  "todos": [
+    {
+      "title": "Redux",
+      "contents": "투두리스트 리팩토링",
+      "isDone": false,
+      "id": 1
+    },
+    {
+      "title": "Workout",
+      "contents": "헬스장 가기",
+      "isDone": false,
+      "id": 2
+    },
+    {
+      "title": "React",
+      "contents": "투두리스트 완성하기",
+      "isDone": true,
+      "id": 3
+    }
+  ]
+}
